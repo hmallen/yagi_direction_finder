@@ -1,2 +1,2 @@
-# yagi_direction_finder
+# Yagi Direction Finder
 AHRS readout of yagi antenna direction
